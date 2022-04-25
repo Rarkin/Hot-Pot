@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Bullet Bank
+  - Enemy
+  - Fade
+  - Shield
+  - Enemy Spawn
+  - Dungeon
+  - Debugger
+  - Scene
+  - KillBox
+  - Enviroment
+  - Destructible
+  - Item
+  - Dungeon Manager
+  - Manager
+  - WeaponWheel
+  - Ingredient
+  - HotPot
+  - Soup
+  - CurrentWeapon
+  - PlayerManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Enemy Bullet
+  - Enemy
+  - Player Bullet
+  - Player
+  - Enemy Bullet Clearer
+  - Item
+  - Bullet Clearer
+  - PostEffect
+  - Background
+  - Manager
+  - Enviroment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 3862411737
+    locked: 0
+  - name: Bars
+    uniqueID: 2251649905
+    locked: 0
+  - name: Borders
+    uniqueID: 1740568441
+    locked: 0

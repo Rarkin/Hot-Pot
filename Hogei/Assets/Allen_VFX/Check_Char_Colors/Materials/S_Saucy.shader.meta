@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8defc617f7bd1164d9d7ddceedad35da
+timeCreated: 1522111830
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _HairGreen_6: {fileID: 2800000, guid: f48315e079b9f4a4cba2fb0a0650e89b, type: 3}
+  - _Saucey_AO: {fileID: 2800000, guid: 8f3a518b21f12644aa88217b58a480e4, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

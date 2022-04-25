@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6efb6a1a8360b434dbadb37d6a7caf51
+timeCreated: 1528345618
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _ChickenCoop_D2: {fileID: 2800000, guid: f076aacd311ed6b43901560aed2c5147, type: 3}
+  - _Chicken_Coop_ambient_occlusion: {fileID: 2800000, guid: dbe98fe3a558d7b4bab5e23ef2c2db2f,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
